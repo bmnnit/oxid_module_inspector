@@ -35,11 +35,12 @@
 
 ## Usage
 
-    Open the script in your web browser.
-    Inspect various OXID eShop configuration values listed.
-    Edit any configuration values directly in the web interface.
-    Validate the JSON input with real-time feedback.
-    Save changes with a single click.
+ - Open the script in your web browser.
+ - Inspect various OXID eShop configuration values listed.
+ - Edit any configuration values directly in the web interface.
+ - Validate the JSON input with real-time feedback.
+ - Save changes with a single click.
+ - Delete File.
 
 ## License
 
