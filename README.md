@@ -31,3 +31,27 @@
     Access the script via your web browser.
 
 4. **Delete the Script when finished**
+
+
+## Usage
+
+    Open the script in your web browser.
+    Inspect various OXID eShop configuration values listed.
+    Edit any configuration values directly in the web interface.
+    Validate the JSON input with real-time feedback.
+    Save changes with a single click.
+
+## License
+
+This project is licensed under the Beerware license. You're free to use and modify it as you wish. If you find it useful, feel free to buy the author a beer. 🍺
+
+## Author
+Johannes Baumann - Visit bmnnit.com for more projects and information.
+Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request on GitHub.
+
+
+## SEO Keywords
+
+OXID eShop, Configuration Editor, PHP Configuration Tool, OXID eShop Module Inspector, JSON Validation, OXID eShop Admin Tool, Web-Based Configuration Editor, OXID eShop Development, eCommerce Configuration Management
