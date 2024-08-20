@@ -13,7 +13,7 @@
 - **Real-Time JSON Validation:** Built-in JavaScript validation checks JSON syntax as you type, ensuring your inputs are correct before saving.
 - **Responsive Design:** A clean and modern UI that works across different devices and screen sizes.
 - **Beerware Licensed:** Use freely with a simple "Beerware" license.
-- **Edit OXID even if Shop is dead**: does not relai on Oxid API or bootstrap
+- **Edit OXID even if Shop is dead**: does not rely on OXID Eshop API or bootstrap
 
 ## Installation
 
